@@ -1,5 +1,5 @@
 ---
-title: "CARNIPHAL on phosphorylaiton events after SARS-CoV-2 infection at different time points"
+title: "CARNIVAL for causal integration of Phospho and transcriptomics data after SARS-CoV-2 infection"
 author: "Alberto Valdeolivas: alberto.valdeolivas@bioquant.uni-heidelberg.de; Date:"
 date: "09/07/2020"
 output: github_document

@@ -1,5 +1,5 @@
-CARNIPHAL on phosphorylaiton events after SARS-CoV-2 infection at
-different time points
+CARNIVAL for causal integration of Phospho and transcriptomics data
+after SARS-CoV-2 infection
 ================
 Alberto Valdeolivas: <alberto.valdeolivas@bioquant.uni-heidelberg.de>;
 Date:
